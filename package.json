@@ -1,0 +1,19 @@
+{
+  "name": "discordjs-starter",
+  "version": "1.0.0",
+  "description": "Le code (légèrement modifié) du guide discord.js afin de commencer rapidement la création d'un bot Discord.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrra/discordjs-starter.git"
+  },
+  "author": "Cbrra (619838036846575617)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbrra/discordjs-starter/issues"
+  },
+  "homepage": "https://github.com/cbrra/discordjs-starter#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
